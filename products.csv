@@ -1,0 +1,16 @@
+
+product_id,name,category,brand,price,rating,ram_gb,storage_gb,battery_hours,weight_kg,gpu_level,features,description
+L01,IdeaPad Slim 5,Laptop,Lenovo,55990,4.4,16,512,8,1.75,1,"coding;college;portable;office","Balanced laptop for programming and college"
+L02,Inspiron 15,Laptop,Dell,52990,4.2,16,512,7,1.85,1,"coding;college;office;budget","Everyday productivity laptop"
+L03,Victus Gaming,Laptop,HP,64990,4.5,16,512,5,2.30,3,"gaming;coding;performance","Performance-focused laptop with dedicated graphics"
+L04,MacBook Air M2,Laptop,Apple,79990,4.7,8,256,15,1.24,2,"battery;portable;coding;college","Lightweight laptop with long battery life"
+L05,ThinkPad E14,Laptop,Lenovo,61990,4.5,16,512,8,1.65,1,"coding;business;durability;college","Business-oriented laptop for development"
+P01,Galaxy A55,Phone,Samsung,28999,4.4,8,128,10,0.21,0,"camera;5g;battery;everyday","Mid-range Android phone"
+P02,Pixel 8a,Phone,Google,39999,4.5,8,128,9,0.19,0,"camera;5g;ai;photography","Phone focused on computational photography"
+P03,Redmi Note 14,Phone,Xiaomi,18999,4.2,8,128,11,0.20,0,"budget;5g;battery;everyday","Budget-friendly everyday phone"
+H01,WH-CH720N,Headphones,Sony,8990,4.3,0,0,35,0.19,0,"noise cancellation;wireless;travel;study","Lightweight wireless noise-cancelling headphones"
+H02,QuietComfort,Headphones,Bose,24990,4.7,0,0,24,0.24,0,"noise cancellation;wireless;comfort;travel","Premium headphones for comfort and travel"
+H03,Q20i,Headphones,Soundcore,4999,4.3,0,0,40,0.24,0,"noise cancellation;wireless;budget;study","Affordable wireless headphones"
+T01,Galaxy Tab S9 FE,Tablet,Samsung,32999,4.4,6,128,10,0.52,0,"study;notes;stylus;portable","Tablet designed for student productivity"
+T02,iPad 10th Gen,Tablet,Apple,34900,4.6,4,64,10,0.48,0,"study;notes;portable;display","Tablet for education and everyday use"
+T03,Redmi Pad SE,Tablet,Xiaomi,13999,4.2,4,128,8,0.48,0,"study;budget;display;reading","Affordable tablet for reading and study"
